@@ -1,0 +1,35 @@
+https://www.gamasutra.com/view/news/347345/Rift_surpasses_Vive_as_VR_devs_top_platform_in_new_XRDC_Innovation_Report.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Rift surpasses Vive as VR devs' top platform in new XRDC Innovation Report
+Today Informa Tech, organizer of XRDC and the Game Developers Conference, is proud to present the fourth annual XRDC VR/AR Innovation Report!
+This year’s report is completely free to download and packed with practical insights from a survey of over 900 industry professionals involved in the development of AR/VR/MR experiences.
+This report offers nuanced, wide-reaching perspective on the AR/VR/MR industries, touching on everything from what platforms devs are focusing on right now to how they’re funding their projects.
+For more information and to read the full report, download it for free here!
+XRDC 2019 will bring together creators of all kinds of immersive experiences -- including games, entertainment, healthcare, marketing, training, design, and more -- October 14th and 15th at the beautiful Fort Mason Festival Pavilion in San Francisco, a waterfront venue well-suited to networking, demos, and convivial knowledge-sharing.
+There’s a lot to be excited about in the AR/VR/MR space this year; new AR games like Harry Potter: Wizards Unite and Minecraft Earth are bringing in a new wave of players, even as the debut of the wireless Oculus Quest headset is inspiring many people to buy into VR for the first time.
+The results of this year’s survey bear that out, as many respondents cited the Oculus Quest’s debut as the most exciting thing to happen in the industry this year. The Quest also ranked high on the list of devs’ most targeted platforms, and the Oculus Rift actually surpassed the HTC Vive this year as the most common platform currently being targeted by industry professionals.
+The full report lays out these learnings in much more detail, providing valuable takeaways on current trends critical to the growth of VR/AR/MR development. Here’s a sample of some of the findings:
+Oculus Rift surpasses the HTC Vive as devs’ top AR/VR/MR platform, and the Oculus Quest is already generating big interest
+When we asked survey respondents which AR/VR/MR platform(s) they’re currently developing for, 29 percent said the Oculus Rift, 24 percent said the Oculus Quest, and 24 percent said the HTC Vive.
+This is a big deal: the HTC Vive has been the most popular platform among devs surveyed for the Innovation Report for three years running, but this year it seems like Oculus has managed to recapture some creators’ interest.
+More notably, the Quest has already secured a foothold among devs’ top 3 most popular VR platforms despite only releasing a few months ago. This suggests devs are excited about the Quest’s promise of wireless, portable VR with 6DoF (Degrees of Freedom) controllers; the comparatively low cost of entry (the cheapest model of Quest retails for $399) probably doesn’t hurt either.
+
+We saw a similar split in interest when we checked in with respondents to see what platform(s) their last project was released on, and what platform(s) they’re targeting for their next project.
+30 percent said their last project came to the Oculus Rift, 29 percent said it landed on the HTC Vive, and 22 percent said their last work came to an Android phone or tablet via ARCore. Intriguingly, 12 percent of those we surveyed said their last project released on the Oculus Quest, which is somewhat surprising given how recently the platform debuted.
+Looking ahead, 30 percent of respondents said their next AR/VR/MR project is going to release on the Oculus Rift, 28 percent said the Oculus Quest, and 24 percent said the HTC Vive.
+Most AR/VR/MR projects are still being paid for out of company coffers, but client investment is rising
+To better understand these industries it’s critical to know where the money is coming from, so every year we ask our survey respondents how they fund their AR/VR/MR work.
+As in years past, the most popular response remains the company’s existing funds (41 percent); but this year it seems that investment from clients has crept up to become the second most popular source of AR/VR/MR funding, with 27 percent of respondents saying they’re funded by a client or clients.
+
+23 percent of respondents said they fund their AR/VR/MR work out of their own personal funds, which is a bit less than the 27 percent who said the same thing last year. Hopefully this means that as the AR/VR/MR markets mature and devs master their craft, more and more clients are stepping up to pay for well-made immersive experiences.
+Of course, you can also look at the data for yourself in much more detail within the full report!
+XRDC 2019 is happening October 14th and 15th at the Fort Mason Festival Pavilion in San Francisco. Now that registration is open, you'll want to look over XRDC passes and prices and register early to get the best deal!
+For more details about XRDC, which is produced by organizers of the Game Developers Conference, check out the official XRDC website. You can also subscribe to regular XRDC updates via email, Twitter and Facebook.
+Gamasutra, XRDC, and GDC are sibling organizations under parent Informa Tech
+
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

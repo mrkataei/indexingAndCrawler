@@ -1,0 +1,35 @@
+https://www.gamasutra.com/view/feature/134268/the_real_story_of_torchlights_.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+The Real Story Of Torchlight's Music
+If you were playing PC games in 1997, there's a good chance the echoing guitar strum that introduces the town of Tristram is a permanent fixture in your mind, always ready to bring back a flood of memories when Blizzard North's action-RPG clickfest Diablo is mentioned.
+That soundtrack was the work of Matt Uelmen, whose 13-year career at Blizzard also included the score to Diablo II and its expansion Lord of Destruction, sound design on the original StarCraft, and composition on World of Warcraft: The Burning Crusade.
+In 2007, Uelmen left Blizzard and spent two years away from game development before joining upstart Runic Games to provide both the musical score and sound design for the company's well-received Diablo-esque downloadable PC game Torchlight and its upcoming Torchlight MMO.
+The new job is something of a reunion for Uelmen. Runic was founded by Travis Baldree, an experienced action-RPG developer, as well as Blizzard North co-founders Max and Erich Schaefer and former Blizzard North programmer Peter Hu -- all four of whom had experienced a setback when their most recent employer Flagship went out of business and they lose control of their game Mythos.
+In this in-depth interview, Uelmen reflects on his game career, his current position at Runic, how the industry has changed, and his own diverse musical influences.
+What's it been like working with Runic, which has several of your former Blizzard coworkers, particularly after they went through that tough situation with Flagship?
+Matt Uelmen: Everybody involved in Flagship was so talented. It was a shame to see all the drama providing such a distraction for so many talented people. I was very happy to see things get focused [with Runic] really fast, and really proud of Max [Schaefer] and Travis [Baldree], in terms of refusing to no longer have their own studio. Mere moments after, the dust hadn't even cleared, and they were already doing their own thing.
+Every business, especially creative business, needs risk-takers like that. There wasn't even a moment's doubt for them. Travis has such a core of good guys, and the thought of having that team break up was painful and unthinkable. They'd grown together the previous few years working on a few things, and Max is a smart enough guy to realize how special a lot of that talent up there [in the Seattle area] is.
+Have you been there since the beginning?
+MU: I've been remote in LA the entire time. I started the first week of 2009. I was going back and forth on the phone with Max about when I officially started, but I interviewed in October or November 2008.
+You had to interview? [laughs] Was there a realistic chance of you not getting that job?
+MU: I can't read their mind. They have been really, really nice in terms of letting me be remote, but there definitely was a chance of not being 100 percent sure that situation could work, and it was unusual that they gave me that latitude. It worked out really well. I have a nice space in Southern California.
+Torchlight
+It seems like it had to be. They're making a game like Diablo, with some of the guys from Diablo, and I think everybody's most intense memory of Diablo is hearing that first guitar chord from your soundtrack. How did it feel getting back into that space?
+MU: Because I had to do sound effects work as well, we didn't really have the luxury of me dwelling on my musical choices too much. I had about nine months total production time on the project. And even though they gave me a lot of help with implementing sound effects and we leaned pretty heavily on a couple libraries to get the job done, there was still a lot of work making sure all the monsters had individual personalities.
+I also had to do some work with voiceover. A lot of people had to pitch in to get the voiceover done at the end, and to get the script tight. Music was something where I got to spend a few weeks every couple months, except at the end of the project.
+That's surprising.
+MU: At the end, I had a chance to really focus on music for a good couple of months. I saved the production on the first interior and the main theme for that period, when I hoped my chops were at their best.
+But I was actually working with [music software] Logic for the first time. By the time I was finishing up work on World of Warcraft: The Burning Crusade, my computers were three or four years old and I really hadn't re-tooled my approach, so I kind of had to start from scratch.
+I'd worked with Vienna samples before, which I used pretty heavily on [Torchlight] for the orchestral stuff, but I had to start from scratch using Logic as a platform. I can be a late adopter or a technophobe, so that was another element that made the job interesting.
+You've done some orchestral work, but a lot of your music runs very counter to what we usually hear in games. It's often more sparse, more organic, and more about texture than most game music. How do you start out on a piece?
+MU: Yeah, I think it is a texture-driven thing. And you always want a live element in every track, even if everything else is going to be from a sample library. It feels a lot more musical if the listener has the image in their head of somebody physically performing the music. That's definitely good practice no matter what your soundtrack approach is.
+I think a lot of times, people underestimate the ability of listeners to subconsciously notice when something is too sample-heavy, especially when it's the first texture you put in the foreground. That should be as live as possible.
+There's a lot of synth going on in the Tristram track, but what everyone remembers is that introductory live guitar. It biases your interpretation of the whole thing.
+MU: That was string samples, more than actual synth. There is a lot of actual synth in the rest of the Diablo soundtrack, just not in Tristram. But, that's right.
+I definitely try to use that approach when I have the luxury of time.
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

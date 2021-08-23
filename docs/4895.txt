@@ -1,0 +1,20 @@
+https://www.gamasutra.com/view/news/366908/Charting_the_rise_of_hyper_casual_gaming.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Charting the rise of hyper casual gaming
+Presented by Adjust
+Mobile gaming is emerging as the prime pastime for a record number of consumers. With the onset of social distancing rules across the world in 2020, more people than ever are using their downtime to discover new games, or binge on favorites. In a single week in March 2020, users globally downloaded a whopping 1.2 billion mobile games — amounting to the biggest week ever for app installs.
+But a spike in the market in the first quarter of 2020 may not be indicative of an industry trend. However, hyper casuals had dominated download charts long before COVID-19 (representing 78% of the most downloaded new games of 2019), and the category is poised to grow and evolve, with more titles adopting a ‘hybrid casual’ model.
+The rise of hyper casual gaming is broken down in Adjust’s latest report, created in partnership with Unity. The report benchmarks hyper casual performance both pre- and post-install, while also giving anyone new to the genre a primer on what these apps are all about.
+Download your free copy of Adjust and Unity’s Hyper Casual gaming report 2020 now.
+How has COVID-19 affected hyper casual gaming apps?
+The global pandemic has upended societies and economies everywhere but what has been the impact on hyper casual gaming? Our first look suggests that the COVID-19 has significantly contributed to driving more users to the genre. Cumulative install and session data for six countries from Adjust reveals how stay-at-home orders have increased interest in hyper casuals throughout the pandemic.
+For the period December 2019 to March 2020, installs more than doubled (103%) globally and as installs rose, sessions ballooned to match. Compared to December 2019, which had already exceeded one billion sessions, hyper casual sessions increased a further 72% in March. An examination of the ratio of paid vs. organic installs show the opposite dynamic as the number of apps installed from paid advertising declined 26% from 80% in October 2019 to 59% in March 2020. Ironically, organics come out the winner, showing that people stuck at home are more willing to browse and experiment.
+The challenge going forward will be sustainability and growth prospects for the hyper casual genre after social distancing eases. Will new users continue to flock toward the genre? And will the broader trend of growing ad inventory be reversed as the overall economy picks up, allowing key metrics and methods to revert back to their pre-crisis mean? Will margins suffer from this drop?
+Nothing is for certain, but it does appear as though the business model of hyper casuals is here to stay. This will no doubt have implications for game developers from other genres and mobile marketers from other app verticals, as the overall trend toward optimization and automation takes hold.
+Download Adjust's hyper casual gaming report 2020 for more insights into the rise of hyper casual gaming and the effects of COVID-19 on the industry.
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

@@ -1,0 +1,12 @@
+https://www.gamasutra.com/blogs/author/AdamCoster/1019512/
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Adam Coster's Blog
+Adam Coster is a co-founder of Butterscotch Shenanigans, where he is a general solver-of-problems, web developer, tool developer, and practicer of DevOps. Adam spends most of his time programming, usually building web infrastructure to automate and expand the capabilities of the studio. When he isn’t programming, Adam is probably using some random mishmash of science, statistics, philosophy, and psychology to help guide the studio’s business and game development decisions.
+See Adam's open sourced code on GitHub, and read his infrequent tweets on Twitter.
+Member Blogs
+Adam Coster's Comments
+Thanks for the thoughtful read ...
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

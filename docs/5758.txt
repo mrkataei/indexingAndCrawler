@@ -1,0 +1,35 @@
+https://www.gamasutra.com/view/news/364244/Learn_how_to_build_multiplayer_games_with_open_source_and_Google_Cloud.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Learn how to build multiplayer games with open source and Google Cloud
+Presented by Google Cloud
+As the popularity of global multiplayer games continues to rise, game companies often face a difficult trade off on how to spend their developer resources - build the next great game, or manage backend infrastructure?
+
+Google Cloud is leveraging our expertise in kubernetes, and working with gaming leaders in the open source community to build gaming solutions such as matchmaking and game server scaling.
+Join this free webinar on Tuesday, June 30 at 12:00 PM EST to learn more about how you can utilize these solutions that free you from the burden of managing infrastructure while providing you with the control and flexibility you need to customize game services to match your needs.
+Register for Free!
+Speakers
+
+Rob Martin
+  Chief Architect
+  Google Cloud for Games
+
+Rob Martin is Chief Architect for Gaming at Google Cloud, working with top publishers and studios globally to deploy gaming workloads on GCP. Rob specializes in scaling up massive truly global multiplayer games utilizing Google Cloud’s differentiated compute, data analytics, and machine learning capabilities.
+Prior to joining Google to focus on gaming, Rob developed solutions across a number of industry verticals including banking and hedge funds, satellite telecommunications, and media broadcasting. Rob holds a Bachelor of Science in Computer Science and a Master of Science in Analytics from the Georgia Institute of Technology.
+Martin Livesey
+Director of Engineering
+2K Games
+
+Core Tech at 2K, where his team is responsible for solving common technical needs across our studios, mainly in online services. Prior to joining 2K, Martin worked in computer graphics on multiple CAD systems before transitioning to games, where he has published many titles in diverse genres for major publishers. Martin Holds a B.A. in Engineering Science from Oriel College, Oxford.
+
+
+Moderator: Alissa McAloon
+  News Editor and Associate Publisher
+  Gamasutra
+
+Register for Free!
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

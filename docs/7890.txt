@@ -1,0 +1,44 @@
+https://www.gamasutra.com/view/news/335028/GDC_2019_State_of_the_Industry_Nearly_50_of_devs_support_unionization.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+GDC 2019 State of the Industry: Nearly 50% of devs support unionization
+The 2019 Game Developers Conference has released the results of the seventh annual State of the Industry Survey, revealing trends in the game industry ahead of GDC 2019 in March!
+The survey compiles responses from nearly 4,000 game developers, and reflects that nearly half of game developers support game industry unionization, as well as uncertainty around Steam’s revenue-sharing model, and insights into the amount of time developers have spent working overtime hours in so-called “crunch.”
+The State of the Industry Survey is the seventh entry in the ongoing series of yearly reports and serves as a snapshot of the game industry, illustrating industry trends ahead of GDC 2019. Organized by UBM, GDC 2019 takes place March 18-22 at the Moscone Convention Center in San Francisco, California.
+Nearly half of game industry professionals think game industry workers should unionize
+Unionization is a hot topic in the game industry these days, and nearly half of the game industry professionals surveyed think it’s a good idea. When asked whether they thought game industry workers should unionize, 47 percent said yes. 26 percent said maybe, 16 percent said no, and 11 percent said they didn’t know.
+However, when asked whether they think video game workers actually will unionize, only 21 percent said yes. The largest share (39 percent) gave an uncertain “maybe.” 24 percent of respondents said they don’t think it will happen, and 15 percent said that they don’t know.
+
+“It is critical that people who work in games are able to maintain a healthy lifestyle, live normal lives, and be able to enjoy a high quality of life that will work well for their spouses and families,” wrote one respondent.
+But: “There is too much supply: too many people want into the industry,” claimed another. “Those who unionize will be shoved out of the way as companies hire those with fewer demands.”
+Steam is the storefront to beat on PC, but some devs thrive on smaller competitors
+Given how many notable new game storefronts debuted in 2018 (such as the Epic Games Store and Discord Store), this year, survey respondents had the option to disclose which PC/Mac game storefronts they sell their games on, and what percentage of their platform sales came from each.
+As expected, the most popular answer was Steam, with roughly 47 percent of those who responded to this question saying that they sell games on Valve’s storefront.
+Download your free copy of the 2019 State of the Industry Report here!
+Of the respondents who said they sell their games on Steam, the majority (54 percent) say Steam accounts for 75-100 percent of their sales revenue – and another 17 percent say it makes up  50-74 percent of their total revenue. Conversely, GOG, Humble, and Discord each accounted for less than 10 percent of revenues earned by a notable majority of the respondents who sell games there.
+Interestingly, while indie-centric store Itch had a similar ratio (52 percent of devs who use it say it generates less than 10 percent of their revenues), it also had a surprisingly high number of respondents (28 percent) who said Itch accounts for 75-100 percent of their earnings. This shows that Itch’s open approach has likely attracted smaller indies who sell exclusively on it.
+Most game makers aren’t sure Steam still justifies its 30 percent cut
+In light of how competition is heating up for PC games marketplaces, the Survey also asked respondents whether they felt that Steam -- in its current form -- justifies a 30 percent cut of their game’s revenue, which it currently takes.
+Only 6 percent said yes, and 17 percent said maybe. The rest either said no or weren’t sure, with the largest share (32 percent) saying Steam currently does not justify Valve’s revenue share. 27 percent said such a large cut probably isn’t justified, and 17 percent said they just didn’t know.
+
+“Take less revenue from sales and curate their store better for visibility for real games,” is what one respondent wrote when we asked what features respondents felt Steam could add to better serve developers.
+“Better support for amateur, hobbyist, and independent creators,” wrote another. “More fostering of things like game jams and actual development communities to be created on the platform.”
+Nearly half of game makers work over 40 hours a week on games
+To get a sense of the of the current labor conditions in the game industry, the State of the Industry Survey incorporate questions asking game developers – from corporate to indie - to share their average work hours in a week in the past twelve months.
+Including all respondents, the results look fairly balanced, since half of respondents (44 percent) say they spend more than 40 hours a week working on games, and 56 percent said they worked 40 hours or less. The most common work week proved to be 36-40 hours per week, with 24 percent of respondents saying that was their average.
+21 percent of respondents said they worked on games 41-45 hours per week on average and 17 percent said they averaged 0-20 hours per week on games (with a number of these likely being part-time or hobbyist workers.) However, 3 percent of respondents said they average over 60 hours of work per week on games, and 5 percent said they average 51-60 hours.
+The Survey also asked about maximum hours per week worked during a single week in the last 12 months. While the largest response was 51-60 hours in a single week, responses ranged as high as more than 110 hours in a week (1.4 percent), with a small spike at 76-80 hours in a week (6 percent), suggesting that deadline-related crunch can go far beyond normal working hours.
+With new consoles rumored, some devs are making games for unannounced platforms
+With the current generation of now several years into their cycle, the 2019 survey now incorporates questions asking respondents whether or not they’re developing their next game for any upcoming, unannounced platforms.
+
+Predictably, very few (under a hundred, or less than 2 percent of) respondents said their next game is being designed exclusively for an unannounced platform. 16 percent said their next game is being developed for both existing and upcoming, unannounced platforms and the largest share (46 percent) said their next game is only coming to existing platforms. 36% said they didn’t know at this time.
+The full survey, which includes lots more detail on what game platforms developers are creating for, iOS vs. Android, and a multitude of other facts and detail, can be downloaded for free here.
+Bring your team to GDC! Register a group of 10 or more and save 10 percent on conference passes. Learn more here.​
+For more details on GDC 2019 visit the show's official website, or subscribe to regular updates via Facebook, Twitter, or RSS.
+
+Gamasutra and GDC are sibling organizations under parent company Informa
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

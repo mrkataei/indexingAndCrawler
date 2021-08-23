@@ -1,0 +1,15 @@
+https://www.gamasutra.com/view/news/370285/Facebook_to_discontinue_Oculus_Rift_S_will_no_longer_develop_PConly_VR_hardware.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Facebook to discontinue Oculus Rift S, will no longer develop PC-only VR hardware
+Facebook is backing away from PC-bound VR entirely, quietly announcing during Facebook Connect today that it will no longer develop PC-only VR hardware.
+The company explains that it sees the future of VR as standalone devices like its freshly announced Oculus Quest 2, rather than through devices bound to and powered by PCs. Because of this, Facebook now plans to end sales of its current flagship PC VR headset, the Oculus Rift S, in 2021.
+This all might be concerning to developers that have poured time and money into developing for PC VR, but while its support for the hardware is ending, Facebook says it still plans to support the Rift platform and launch high-end PC VR games “well into the future.”
+Likely to help alleviate these concerns, Facebook also announced that its Oculus Link tech will exit beta this fall and allow Quest users to connect the headset to their PCs and play games originally developed for the Oculus Rift line.
+As part of that, an update heading to the Quest next year will merge the two game libraries into the Quest UI and allow both standalone VR and PC VR games to coexist in the device’s interface.
+“Over the past year, we’ve heard from developers and the VR community alike that Quest delivers on the promise of VR better than any other headset,” reads a blog post from Facebook. “It offers flexibility and comfort while letting people enjoy both wireless Quest titles and the best of high-powered PC VR (through Oculus Link), all with a single all-in-one headset. This is the future of VR.”
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

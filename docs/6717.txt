@@ -1,0 +1,34 @@
+https://www.gamasutra.com/view/news/366561/GDC_Summer_State_of_the_Industry_33_of_devs_had_a_game_delayed_due_to_COVID19.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+GDC Summer State of the Industry: 33% of devs had a game delayed due to COVID-19
+Yesterday the Game Developers Conference released the results of a special State of the Industry: Work From Home Edition Survey examining how the COVID-19 pandemic has impacted game developers worldwide.
+This special edition of the long-running survey compiles responses from over 2,500 game industry professionals, and the results reveal that roughly a third have seen their business decline due to the pandemic, though nearly as many reported their business had actually increased.
+Today, we dive deeper into the results to help illuminate how the COVID-19 quarantine measures implemented worldwide have affected game developers' ability to ship games on schedule. We also excerpt a selection of the responses some of our respondents chose to write in about the biggest challenges they've faced making games during the pandemic, and how they're tackling them.
+Organized by Informa Tech, GDC Summer will take place August 4th through 6th in a new virtual format accessible from anywhere with an Internet connection. download the free report for full details and more insights from fellow game industry professionals!
+1 in 3 devs have had a game delayed due to the COVID-19 pandemic
+“Has your game suffered any delays due to the pandemic” was one of the core questions of this edition of the survey, and roughly a third (33 percent) of our respondents said yes. 46 percent said no, and 21 percent said the question wasn’t applicable (because, for example, they weren’t working on a game at the time).
+We gave survey-takers the option of writing in with more details about why, and their responses shed some light on how studios around the world are adapting to life in the time of COVID-19.
+
+“The company was quite effective in switching everyone to remote work,” wrote one respondent. “I work on a central team supporting external development. None of our games have been delayed due to COVID,” wrote another.
+“Our entire team has stepped away in order to focus on desperately trying to manage their lives, living situations, and find bread and butter work to make ends meet,” said one respondent. “We were hoping to show our new projects but some major events were cancelled, working from home slowed us down, and some work-for-hire projects were delayed or cancelled,” another wrote.
+“We transitioned to WFH okay, but it did cause us about a couple of weeks of disruption,” stated one respondent from New Zealand. “As NZ has got COVID under control we're already back at the office and functioning 100 percent.”
+Some respondents said they’d suffered delays and other losses due to the pandemic affecting their partners, even if they themselves were able to continue on schedule.
+“Most of our delays are because of other companies/studios not being ready for a work-from-home model. Internally, we were already set up pretty good and the transition has not been very difficult to make,” wrote one respondent. Another stated that “Certifications through Nintendo have been backed up due to their processes being adversely affected by the pandemic.”
+Poor communication, isolation, and lack of access to critical tools are some of the common challenges devs are dealing with right now
+We also gave our survey-takers the option of telling us about the biggest challenges they and their team had yet faced due to the pandemic, and what solutions they’d implemented so far.
+“The most important challenge was the subject of communication,” a respondent wrote. “We were starting the design of a game when the pandemic started; at the beginning it cost us to migrate everything to Discord servers for our communication, but we were able to do it and finish the design from our homes.”
+“We have an office in downtown Rio de Janeiro, but since March we have all been working from home,” explained one surveytaker. “It took a while to get used to being available online, using Discord as the main means of communicating, lessening the distractions at home, knowing when to shut down, etc., but I believe we have managed to maintain our efficiency.”
+“Recording voice actors from their homes,” was a big challenge for another respondent. “We created remote kits of recording gear and acoustic treatment to send to actors.”
+“The voiceover recordings,” were the biggest challenge for another, “because the Italian laws forced us to close the studio, so our audio engineer had to change some processes (and add a few more hours for post-production).”
+“Due to funding falling through, we attempted to cut costs as much as possible by moving to different cloud service providers, cut development and try to go with bare-minimum maintenance,” said one respondent. “We furloughed all but two employees initially.”
+“The biggest overall team challenge has been managing ambient stress. Everyone has been affected by the pandemic in some way, even if not directly, and the general atmosphere of anxiety is impossible to ignore completely.”
+“The biggest functional challenge has been testing console features and/or platform certification requirements, which has not necessarily been easy from home due to hardware limitations and networking constraints,” wrote one respondent. “The biggest overall team challenge has been managing ambient stress. Everyone has been affected by the pandemic in some way, even if not directly, and the general atmosphere of anxiety is impossible to ignore completely. We've tried to address this by encouraging people to ask for time off if they need it, take breaks, and by organizing social activities via video conference to keep people from feeling too isolated.”
+Download your free copy of the State of the Industry: Work From Home Edition report here!
+For more details on GDC Summer, scheduled to take place virtually August 4th through the 6th, visit the show's official website, or subscribe to regular updates via Facebook, Twitter, or RSS.
+Gamasutra and GDC are sibling organizations under parent company Informa Tech
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

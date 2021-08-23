@@ -1,0 +1,28 @@
+https://www.gamasutra.com/view/news/365333/Learn_to_ward_off_cheaters__other_threats_to_online_games_in_a_free_webinar.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Learn to ward off cheaters & other threats to online games in a free webinar
+Presented by Irdeto​
+Gamers have unprecedented access to cheats for competitive multiplayer games. Motivations for cheating are plenty, like gaining an unfair advantage in competitive tournaments or building a casual subscriber base on Twitch.  Whatever the motivation may be, the outcome is always the same: communities abandon games with cheats in search of a fair multiplayer experience.
+Join Michail Greshishchev for a 1-hour interactive session on Tuesday, July 21 at 1 PM ET to learn about modern threats to multiplayer games and how Denuvo Anti-Cheat addresses those threats without requiring modification of the game's source code.
+Register for free!
+Viewers can expect the following takeaways:
+Speakers
+
+Michail Greshishchev
+  Product Owner
+  Denuvo
+
+Michail is a software engineer with a passion for reverse engineering. His career revolves around software reliability & safety critical systems. On his spare time, he enjoys disassembly, static and dynamic analysis of software and hardware, indie game development, and working on machine learning projects. His recent accomplishments were contributing a security analysis framework to Automotive Grade Linux (AGL), enabling automotive manufacturers to protect future cars from cyber-attacks, and winning a US Navy CTF hacking competition in Austin, Texas. Presently, He is a product owner at Denuvo.
+
+
+Moderator: Alissa McAloon
+  News Editor and Associate Publisher
+  Gamasutra
+
+Register for free!
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

@@ -1,0 +1,133 @@
+https://www.gamasutra.com/blogs/RubenTorresBonet/20201105/373134/Forget_Monochrome_Shadows__Go_Colored_Instead.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Forget Monochrome Shadows → Go Colored Instead
+Learn how to render ray-traced colored shadows in Unity to give a unique tint to the style of your game. Real-time ray-tracing will do this for you.
+[For better formating, read the original blog post here]
+
+TABLE OF CONTENTS
+The Goal: Level Up Your Visuals
+Attempt #1: Semi-Transparent Colored Material
+Setup With HDRP/Lit Shader
+Why Wouldn't That Work? — Realigning Expectations
+Attempt #2: Unity Ray-Traced Colored Shadows
+1. Enable HDRP and Ray-Tracing
+2. Enable Colored Shadows in Your Directional Light
+3. Set Up Transparency and Refraction in Your Material
+The Ultimate Result: Ray-Traced Colored Shadows in Unity
+The Performance Cost of Ray-Traced Colored Shadows in Unity
+What's Next?
+The Goal: Level Up Your Visuals
+Black, hard-shaped shadows are boring. No secret here.
+That's why over time we upgraded from rendering hard shadows to the better looking soft shadows. A well-needed realism upgrade.
+But in the game dev scene, we were still missing the next big step: to upgrade from monochrome shadows to colored shadows.
+How is that, you might ask?
+Go to your local church and see the nice colored shadows that the stained glasses project (if the church is not on a tight budget, that is). They look impressive.
+Or just any fancy building in general, like this one.
+
+How do you like them?
+Imagine the unique scenery you could build for your game with well-polished, real-time colored shadows.
+Ok, stop imagining. Because now you can in Unity.
+So let's get to draw colored shadows.
+What could be our first approach?
+A semi-transparent colored material, of course.
+Attempt #1: Semi-Transparent Colored Material
+A stained glass is all we need, right?
+Setup With HDRP/Lit Shader
+That means:
+In other words, this:
+
+Unity Lit: Semi-Transparent Material
+Now we just need a directional light, enable shadow casting and play with the opacity aaaand...
+Direct link to video
+Ooops... what happened there?
+A grey shadow still?
+That's not what we want.
+But why did this happen?
+Why Wouldn't That Work? — Realigning Expectations
+In traditional rasterisation graphics, we use a technique called shadow mapping (any of its variants).
+In short, we treat a light as if it was a camera. Then, we check what surfaces that "camera" can see... and which surfaces it can't see.
+It is the later ones that are so important for rendering shadows.
+Here's the simplified idea: if a surface can't be seen from that light, we say it is occluded and "paint" a shadow on that surface.
+It's kind of a binary decision. That point on the surface is either on the shade or not.
+(really simplified explanation)
+So if you wanted to color your shadows, then you would need to know the (many) surfaces your light "rays" go through. And their properties and bla bla.
+In other words, we would need to trace rays.
+And that brings us to ray tracing. Our second attempt.
+Surprised?
+Attempt #2: Unity Ray-Traced Colored Shadows
+So this is the plan:
+It sounds complex.
+But it isn't, because Unity takes well care of us.
+This is what you need to do:
+Let me explain
+1. Enable HDRP and Ray-Tracing
+I won't go in detail on this one. It's already covered in other tutorials.
+Note: there are GPU requirements for ray-tracing to work. Citing Unity documentation:
+Full ray tracing hardware acceleration is available on following GPUs:
+NVIDIA also provides a ray tracing fallback for some previous generation graphics cards:
+Basically, import the HDRP package and go through the wizard to set up the render pipeline with DXR support.
+Like this:
+
+Unity HDRP Wizard DXR Setup
+After restarting your editor, you are good to go.
+2. Enable Colored Shadows in Your Directional Light
+Ok, let's start with the fun.
+Inspect your directional light and under shadows, enable:
+Like below.
+
+Unity Directional Light Color Shadows
+The lighting setup is now ready.
+Next step? Setting up your window-like material.
+3. Set Up Transparency and Refraction in Your Material
+Make sure you are using the HDRP/Lit shader.
+Here's what you need to set in your window material:
+Here's an example:
+
+Unity Colored Shadows Material Setup for Refraction
+Output?
+
+Unity Colored Shadows Test
+Output: Check.
+That's solid progress.
+But such shot isn't really satisfying... is it?
+After all, it's just a plane, a skybox and the window.
+We can do better than that.
+Let's step up the ray-tracing game with a real scenario.
+The Ultimate Result: Ray-Traced Colored Shadows in Unity
+Curious to see how colored shadows can look in an interior?
+Well, I'm not an artist, but...
+I know how to buy assets.
+So I took my hungry credit card and bought this dragon interior asset.
+Then, I upgraded the included scene to HDRP and set up colored shadows just like I described.
+The result?
+Check this clip
+I like it.
+(But don't judge my art style. I'm a programmer)
+Use this slider to see the visual impact colored shadows make.
+The Performance Cost of Ray-Traced Colored Shadows in Unity
+I know you had this question all along...
+Yeah sure, it's pretty, but how much will it cost me?
+I heard it. Now I have the time to answer it.
+Here are some rudimentary tests I ran with my TITAN RTX beast and Ryzen 2700X.
+To my surprise, in my tests I saw no increase in performance cost of colored shadows over the uncolored version.
+That is, with ray-traced screen-space shadows enabled as my baseline test.
+So if you are already using ray-traced screen-space shadows, colored shadows won't cost you extra.
+However, enabling ray-traced shadows will cost you considerable performance juice. Remember, that's a requirement for colored shadows.
+Here's the difference between ray-traced shadows ON and OFF.
+In upcoming blog posts I'll discuss the performance implications in ray-tracing in more detail.
+But for now, one more thing about performance...
+
+What's Next?
+If you plan to enable ray-tracing in your game, you need to make extra performance room in your game. Like, considerable room.
+To help you improve the performance of your game, I prepared this Unity Performance Checklist for you.
+For each performance checklist item:
+And done.
+If you make enough performance room for ray-tracing, then you're good to go to craft and publish a handsome experience.
+Alright, see you in the next post.
+~Ruben
+(The Gamedev Guru)
+Related Jobs
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

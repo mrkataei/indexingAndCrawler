@@ -1,0 +1,33 @@
+https://www.gamasutra.com/view/feature/203365/harnessing_the_power_of_motion_.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Harnessing the power of motion control in video games
+Motion control isn't a new option for video game developers. As an industry, we've been fiddling around with capturing player movement to allow for interaction with games for many years now.
+Of course, there are been plenty of leaps and bounds in recent years, thanks to devices like Kinect, LeapMotion, PlayStation Move, et al. And with so many motion control devices coming in the near future, plenty of developers are giving the hardware some serious thought.
+As part of Gamasutra's Advanced Input and Output week, we talked to a variety of developers who have plenty of experience in the field of motion control, to find out what they believe are the best (and worst) practices when bringing motion control into your game.
+Douglas Wilson, Die Gute Fabrik
+Chances are you've heard of Douglas Wilson as the designer of the widespread phenomenon that is Johann Sebastian Joust.
+Wilson is a key figure in the motion control games movement, especially when it comes to encouraging the sorts of party games that you'd find at the various indie shows and get-togethers that are occurring more and more often around the world right now.
+"I'm a little hesitant about recommending 'best practices' or other points that developers 'need' to keep in mind," he tells me. "One, designing motion control games is somewhat different for an indie than it is for, say, a big studio like Harmonix or Ubisoft. Two, I've found that some of the most memorable physical games break with traditional design wisdom in clever and deliberate ways."
+Having said that, he believes that the best way for motion control games to evolve and get better is for studios to compare notes and share their experiences -- so he's happy to explain what has gone right for him.
+"With my own physical games, I started finding my groove when I started thinking more seriously about playground games, folk games, and sports," he says.
+"For example, Johann Sebastian Joust was heavily inspired by a silly (non-digital) slow-motion folk game some friends of friends made up. And our party game B.U.T.T.O.N. was partly inspired by the way some traditional Danish bar games mess with concepts of 'winning' and 'losing.' I see folk games as a kind of 'paper prototyping' of physical and motion control game design. Human beings have been playing physical and gestural games for centuries! There's a lot to learn."
+He describes motion control games as the "slapstick comedy" of video games, as these experiences tend to focus on what happens physically in front of the screen, rather than on the screen.
+
+"Marketing rhetoric would have us believe that next-gen physical games and so-called 'natural' interfaces will lead us to new heights of immersion, making us feel like we're actually in the fictional world of the game," he adds. "The reality, however, is that technologies like accelerometers and machine vision algorithms are quite limited. Both as a designer and as a player, I'm more interested in doing stranger, unexpected things with those technologies."
+The classic mistake that developers can make when implementing motion control in their games, he says, is to treat the technology in a "binary" way -- for example, requiring that you waggle something to trigger a gameplay action on or off.
+"The beauty of physical movement is that it's rich and complex," Wilson notes. "That is to say, physical movement is very 'analog.' Many of the best physical games figure out how to let players move in expressive ways, rather than prescribing exact gestures."
+The other issues with tending towards exact gestures is that you are then forced to deal with false positives and negatives.
+Says Wilson, "Gesture detection is hard! Consequently, many of the best physical games punt on that problem and embrace a far simpler solution, enlisting (or as I put it, 'deputizing') the players themselves to 'complete' the experience."
+Take Wii Tennis for example -- "who cares if you can theoretically play by just flicking your wrist! It's far more fun to 'perform' playing tennis, to go through the full-bodied swinging motions. Wii Tennis does a good job coaxing players to act as such. In that sense, good motion control design is as much about the technology itself as it is selling players on the 'spirit' of the game, on the idea of performance."
+So let's say a studio is planning to make a motion control-based game -- at what point should the dev know that a concept is working, and how much fiddling is required to get to that point?
+"All of my most successful physical games were immediately fun, even from the very first playtest," answers the J.S. Joust dev. "By contrast, in some of my more failed motion control projects (especially those that used gesture detection), we spent months tweaking the input detection, hoping that one day we could make it fun."
+"Of course, the successful games needed tweaking along the way, even after the initial playtests. But it's important to remember that game feel is also so heavily dependent on finding the right visuals, the right audio, and setting the right 'mood' and context."
+He adds, "My other advice is to exhibit your game in public, as often as you can! At festivals, in galleries, in the park -- wherever. Watch enough people play your game and you'll start to get a good sense of whether or not it needs more work."
+And what if a studio is thinking about adding motion control as more of a side-feature in a game, rather than as the main course?
+"To be honest, you might be fighting a losing battle if motion control is viewed as a side-feature," Wilson muses. "All my favorite motion control games are built around the idea of physicality and expressive movement. I don't think it's impossible to employ motion control as a side-feature, but that sure sounds difficult..."
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

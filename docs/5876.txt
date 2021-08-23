@@ -1,0 +1,47 @@
+https://www.gamasutra.com/blogs/MikeMarrone/20201030/372917/Game_Dev_Digest_Issue_68__Retro_Inspired_Procedural_Animations_and_more.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Game Dev Digest Issue #68 - Retro Inspired, Procedural Animations, and more!
+*This post was originally published on GameDevDigest.com
+
+This week includes some potentially helpful tips on speeding up your workflow, and hopefully some more posts to get you inspired to actual get working. Enjoy!
+The Colorful Side of Ray-Traced Colored Shadows in Unity - In this post, you will learn how to render colored shadows in Unity to give a unique tint to the style of your game. Indeed, real-time ray-tracing will do this for you.The Gamedev Guru
+Easy Inverse Kinematics - Whichever way you go, you can use the principles in this tutorial to make IK play nicely with your animations.stellargameassets.com
+Fire Shader Breakdown - Hey! Wrote a breakdown of a fire shader that uses noise for a distortion effect (similar to the stylised fire in RiME). I've had this shader for a while but never got around to a proper breakdown, until now!Cyan
+Start creating games with virtual LEGOâ“‡ bricks in our new LEGO Microgame - In the latest addition to our Microgames series, we’re putting digital LEGO® elements in the hands of new users to get them quickly building, customizing, and sharing their first 3D game in less than an hour.Unity
+Pixel-perfect fonts in Unity – The Practical Guide - During the development of a retro game sooner or later you will come across a problem of displaying a text with pixel-perfect fonts. Be it a character’s dialogue, menu option or final score – as a game developer you need to ensure the correct rendering of in-game texts. In this tutorial we are going to look at how we can achieve such pixel-perfect font in a wide range of resolutions. The contents here will be based on the materials presented in my previous article on how to achieve pixel-perfect graphics in games. Please refer to it if you’d like to learn more.pavcreations.com
+Multiple Cameras - This is the 14th part of a tutorial series about creating a custom scriptable render pipeline. This time we revisit rendering with multiple cameras, now with post FX added.Catlike Coding
+Being Resourceful - If you’ve spent much time in the Unity editor, you may have noticed it utilizes a wide variety of icons for various windows and actions. Many of these icons support both the dark and light editor skins (generally by utilizing a contrasting color scheme - darker icons for the light skin and lighter icons for the dark skin). Some of them support higher resolution versions when they’re expected to be used in places other than toolbars (since those are generally pretty narrow). Can we utilize these icons for our own needs?sorcerycodex.com
+Unity 2020.2.0 Beta 9 - Unity 2020.2.0 Beta 9 has been released.Unity
+Videos
+Creating a boss with procedural animation | Prototype Series - In this episode of the Prototype Series, we've experimented with creating a procedurally animated boss enemy! Let us know what you would like to see being prototyped!Unity
+Retro Console Palettes in Shader Graph and URP - Classic games hold a special place in many people's hearts due to the nostalgia they feel when they play on older consoles, such as the Game Boy, NES and SNES. In this tutorial, learn how to use Shader Graph to emulate the restrictive colour palettes of those consoles.Daniel Ilett
+Making a Retro Inspired Melee FPS in Unity - In this week's indie game devlog I make a retro inspired mobile melee FPS in Unity.Anders Lundbjörk
+Total Jump Solution For Unity: Less Floaty Jumps, Check For Ground, And Manage Jump Height Curve - This video will cover everything needed for a standard jump in Unity: managing a grounded state, having the player jump higher if you hold the jump button instead of just tapping it, and all the small details that make a jump feel less floaty.I_Am_Err00r
+Speed up your workflows in Unity 2019 LTS | Unite Now 2020 - With Unity 2019 LTS we made improvements to existing features and added several new tools to make you and your team even more productive. In this session, we look at 10 features and how you can leverage them to speed up your day-to-day workflows.Unity
+Humankind: How to achieve high frame rates and low build times | Unite Now 2020 - How Humankind Achieves High Frame Rates and Low Build Times, WebinarUnity
+Behind the Game: Humankind | Unite Now 2020 - Tim Raulin and Romain de Waubert from Amplitude Studios chat with host Mike Geig about their turn-based historical strategy game, Humankind. Learn more about the studio behind this ambitious title, how their community helped shape the game, and what it takes to build a game where the course of civilization is in your hands.Unity
+Tilemap in Unity (Build Worlds Easily) - Let's learn how to use the Built-in Unity Tilemap!Code Monkey
+Lighting up your game graphics | Unite Now 2020 - With Unity, you can achieve realistic light for a wide range of art styles while keeping your game optimized for performance.Unity
+How to get started making Quest 2 games in Unity - Part 1: The Setup - The Oculus Quest 2 is here and you too can make games for it! Unity3D is the perfect gamedev environment, and in this video I show you how to get up and running in no time.SharkJets
+Assets
+Mega Bundle X Unity Sale - You can save more than 90% off three curated sets of powerful tools and assets from October 21, through November 11. Mega Bundles
+$9.99 Bundle - save up to 93%
+This bundle contains: The Combat Collection PRO edition, Fantasy Horde - Orc, GOLEM, Low Poly Micro Monster Pack, and Oak Trees Package.
+$24.99 Bundle - save up to 93%
+This bundle contains everything from the $9.99 bundle, plus Frozen GUI Pack, Top-Down Assets, PoolManager, UI - Builder, and Tower Defense Toolkit 4 (TDTK-4).
+$35.99 Bundle - save up to 95%
+This bundle contains everything from the $9.99 and $24.99 bundles, plus Procedural UI Image, SUIMONO Water System, SimpleSQL, Script Inspector 3, Vectrosity, UniStorm - Volumetric Clouds, Sky, Modular Weather, and Cloud Shadows, Edy's Vehicle Physics, Master Audio: AAA Sound, EasyRoads3D Pro v3, and Toon Racing.Unity Affiliate
+HUMBLE ULTIMATE FANTASY GAME DEVELOPMENT BUNDLE - We've teamed up with Infinity PBR for our newest bundle! Get top-quality character assets like Dragons, Humans, Armor, a complete Lock-picking set, Spiders, and Mimics & more. Built for Unity and Unreal, these packs come with mesh morphing, concept art, custom sound effects, re-mixable music and Substance Painter source files for customizing textures. Plus, your purchase will support DoSomething.org and World Land Trust!
+$917 WORTH OF AWESOME STUFF. PAY $1 OR MOREHumble Bundle Affiliate
+UnityObservables - A tiny package containing generic implementations for Observables that play nice with the Unity Editor. The Observables are serializable, they display nicely in the inspector, and they work with the UNDO system.
+The Observable pattern is extremely useful in Unity for many reasons. Not least of all is the potential performance gains. Without Observables you may need to check if a value has changed each frame inside an Update function. Since Unity uses reflection to call Update this can really add up, something I was surprised to see when profiling an oculus quest game. It was truly death by a thousand cuts.Adam4lexander Open Source
+CSVLogger.cs - Sharing a script I like called CSVLogger -- a simple way to log CSV data to #HoloLens in your #Unity project. Writes to Pictures folder so you can access from File Explorer rather than Device Portal. I hope you find it useful!Julia Schwarz Open Source
+Spotlight
+Making My DREAM Game In SECRET For 2 Years! | (Unity Devlog 1) - hi there, today in Making My DREAM Game In SECRET For 2 Years! | (Unity Devlog 1) - the game is a multiplayer first person shooter ( FPS ). I will be showing my progress I've made over the last 2 years for my new game in development - Operation Desolate VoidRogue Worlds
+You can subscribe to the free weekly newsletter on GameDevDigest.com
+This post includes affiliate links; I may receive compensation if you purchase products or services from the different links provided in this article.
+Related Jobs
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

@@ -1,0 +1,16 @@
+https://www.gamasutra.com/view/news/367432/Video_Creating_Dr_Grordborts_Invaders_for_Magic_Leap_One.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Video: Creating Dr. Grordbort's Invaders for Magic Leap One
+In this 2019 VRDC talk Weta's James Everett discusses the process of creating the striking Dr. Grordbort's Invaders game for the Magic Leap One Creator Edition headset.
+Notably, Everett shed light on how the Weta Gameshop team, born of a collaboration between Magic Leap and Weta Workshop, delivered on their mandate to make a great game while providing feedback on the ever-evolving hardware and software that became the Magic Leap One Creator Edition.
+It was a fascinating talk that explored the hurdles of working so closely with an evolving piece of hardware, as well as the challenges of designing games for mixed-reality headsets, and now you can watch it for free on the official GDC YouTube channel!
+About the GDC Vault
+In addition to this presentation, the GDC Vault and its accompanying YouTube channel offers numerous other free videos, audio recordings, and slides from many of the recent Game Developers Conference events, and the service offers even more members-only content for GDC Vault subscribers.
+
+Those who purchased All Access passes to recent events like GDC or VRDC already have full access to GDC Vault, and interested parties can apply for the individual subscription via a GDC Vault subscription page. Group subscriptions are also available: game-related schools and development studios who sign up for GDC Vault Studio Subscriptions can receive access for their entire office or company by contacting staff via the GDC Vault group subscription page.
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

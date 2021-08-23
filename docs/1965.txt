@@ -1,0 +1,57 @@
+https://www.gamasutra.com/blogs/SimonCarless/20201102/373025/iOSAndroid_sales_deep_dive_Meteorfall_Krumits_Tale.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+iOS/Android sales deep dive: 'Meteorfall: Krumit's Tale'
+[The GameDiscoverCo game discovery newsletter, which you can subscribe to now, is normally written by ‘how people find your game’ expert Simon Carless, and is a regular look at how people discover and buy video games in the 2020s.
+Following a look at how his deckbuilding roguelike Meteorfall: Krumit’s Tale launched on Steam, here’s Eric Farraro of indie dev Slothwerks - with edits by me - examining the iOS/Android fortunes of the same game. It’s a high quality $6.99 USD premium (no IAP) title, so it’s illuminating to see how these fare in today’s market.]
+
+The Mobile Release
+A little while ago, I talked about the Steam 1.0 launch for Meteorfall: Krumit’s Tale, alongside how it fared in Early Access.
+Since then, we’ve released Krumit’s Tale on iOS and Android and I wanted to share an update about how the game has sold on those platforms.
+A good start - featured on the App Store
+Krumit’s Tale was lucky to be featured in the iOS App Store prominently in two ways on its late August 2020 launch. Apple showcased it via the app carousel at the top of the Games tab, as well as the first slot in ‘New Games We Love’.
+
+The game peaked at #2 US Card category, with two Meteorfall games in the Top 5
+I don’t know how the majority of iOS gamers discover new games. But for me personally, I discover a ton of new games via ‘New Games We Love’, which is my favorite curated section in the App Store.
+
+Here’s Meteorfall: Krumit’s tale featured on the top of the App Store Games tab!
+I’m also very grateful that Krumit’s Tale was highlighted by Apple’s App Store editorial team. A lot of storefronts (seem) to be 100% algorithm driven, but I’m definitely a fan of the human touch as part of the curation process on the App Store.
+Krumit’s Tale - the mobile numbers?
+Meteorfall: Krumit's Tale has now made $92,300 net revenue (across both iOS + Android) since its August 27 launch, with a 43% to 57% Android to iOS split. That's a little over 4 times the first week’s net revenue of $22,600.
+Here’s the daily revenue, so you can see how the two formats (Android via Google Play and iOS via the App Store) performed:
+
+Why did the Google Play version launch later, though? On August 27th, the announced date of the mobile release, iOS went off without a hitch. Android — not so much. I contacted Google Play support who told me my app was In Review.
+I found this surprising, since nothing in the UI suggested this to be the case. Over the next few days, I contacted Google Play at least 4 more times, before an agent finally pointed out that my app was still in ‘Pre-registration’ mode — woops.
+There’s a separate screen, buried in some menus, apart from the release rollout that you have to update to roll out your app. One thing the much simpler Apple App Store backend does well is to make it simple to understand the status of your app. The main takeaway here is — if you’re using Pre-Registration on Google Play, make sure you know how to release your app afterwards ;)
+Anyhow, I've been really pleased with performance overall - and I've been especially impressed that it continues to do well despite being released 2 months ago. In my limited experience launching games, the drop-off is normally a lot more sharp. Here’s the net revenue curve to date:
+
+While you’re reading, here’s some other bonus facts about Meteorfall: Krumit’s Tale’s mobile launch:
+4.6/5 â­ (Google Play, App Store)
+3,289 Pre-Registrations* (Google Play)
+859 Pre-orders* (Apple App Store)
+$22,700 Week 1 mobile net revenue
+$36,700 Week 2 mobile net revenue (cumulative)
+*A ‘pre-registration’ is not a commitment to purchase and simply notifies a user when the app is available. A ‘pre-order’ is a commitment to purchase and will charge the user when the app is released.
+Comparing Krumit’s Tale to Journeys
+The iOS launch of Krumit’s Tale represented the single largest day of revenue, with about $4,800 Day 1 sales. The mobile release of Krumit’s Tale made a huge impact on the total revenue, totaling months of sales on Steam in just a few weeks.
+The below graph, which is from a few weeks ago, compares the total revenue of the ‘original’ Meteorfall title Journeys - which was mobile only - to Krumit’s Tale (Steam, then mobile.)
+
+The move from Steam Early Access to 1.0 for Krumit’s Tale didn’t create a major revenue boost. But the game quickly caught up and surpassed the pace of Journeys with a strong mobile release. (The two big jumps for Krumit’s Tale were the Steam 1.0 launch, seen around Day 250, and the Mobile launch around Day 300.)
+I’m curious to see, in particular, how Android performs over time. On Journeys, iOS jumped to a quick 80:20 lead after launch. But nearly 3 years later, Android has been steadily gaining to an almost 50:50 revenue split.
+It’s interesting - iOS really seems to frontload the sales for a premium game, while Android seems to have a stronger long tail (from my very limited experience). I’m curious to see if this same pattern plays out with Krumit’s Tale.
+Krumit’s Launch Effect on Journeys
+In and around the launch of Krumit’s Tales on iOS and Android, perhaps the biggest winner was my previous game, Meteorfall: Journeys.
+To celebrate the launch of Krumit’s Tale and to help juice the cross-sell opportunities, I reduced the price of Journeys to just $0.99 for the weekend, the lowest price ever in the history of the game. Here’s what happened:
+
+Journeys rocketed up the charts and saw a nice, predictable boost in sales due to the sale. This sale effect tapered quickly on iOS, but on Android, Journeys’ revenue continued to increase after the sale was over.
+Around three weeks after launch, Journeys was hanging out at #1 in the Card Game (Paid) category on Google Play in the US. And during those few weeks after Krumit’s launch, Journey averaged $506 per day in revenue on Google Play, which exceeds any point in the game’s history (nearly 3 years at this point), including the initial launch.
+Closing Thoughts
+I’m really excited that Krumit’s Tale had such a strong launch on mobile! I think a lot of what I expected turned out to be true. Meteorfall fans had discovered the series originally on mobile, and preferred to wait to buy the game on their preferred platform. Thus, Krumit’s Tale was able to rapidly outpace the lifetime sales on Steam.
+That said, I’m contented with my experience on Steam as well, and am glad that the game is available and highly rated across multiple platforms. Steam is a really strong third platform for Krumit’s Tale - and I definitely plan to include a PC / Mac release as part of my launch plan for future games.
+Most importantly, PC provides access to a very large and important community of streamers and influencers that can make the difference between a game performing ‘OK’ and a game being a massive hit.
+Missing from the list of launch countries on mobile is Mainland China, but I’m currently working with Indienova to bring the game to Chinese audiences. The process is a bit complex due to the ISBN requirement. We currently have a TapTap page live and I’m eager to get the game in front of Chinese players — perhaps the largest single market in the entire world.
+[This newsletter is handcrafted by GameDiscoverCo, a new agency based around one simple issue: how do players find, buy and enjoy your premium PC or console game? We’ll be launching a ‘Plus’ paid newsletter tier shortly with much extra data/info - watch out for it.]
+Related Jobs
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

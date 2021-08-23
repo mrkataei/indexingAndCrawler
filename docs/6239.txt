@@ -1,0 +1,15 @@
+https://www.gamasutra.com/view/news/373318/Video_How_to_wrangle_inflation_in_your_online_game_economy.php#comments
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Video: How to wrangle inflation in your online game economy
+Inflation in online games can take a nasty toll on your game's experience. As a developer, it cuts into your revenue if it's tied to in-app purchases. As a player, it can interfere with their understanding of how they should be spending their money. How can game-makers address this?
+In this 2020 GDC Virtual Talk, Netease's Yongcheng Liu & Qinfang Ying demonstrate how they monitor the monitor the economic systems of Netease's MMORPGs to reduce inflation. You can learn from their lessons by watching the video above or by heading over to the GDC YouTube channel.
+About the GDC Vault
+In addition to this presentation, the GDC Vault and its accompanying YouTube channel offers numerous other free videos, audio recordings, and slides from many of the recent Game Developers Conference events, and the service offers even more members-only content for GDC Vault subscribers.
+
+Those who purchased All Access passes to recent events like GDC already have full access to GDC Vault, and interested parties can apply for the individual subscription via a GDC Vault subscription page. Group subscriptions are also available: game-related schools and development studios who sign up for GDC Vault Studio Subscriptions can receive access for their entire office or company by contacting staff via the GDC Vault group subscription page. Finally, current subscribers with access issues can contact GDC Vault technical support.
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.

@@ -1,0 +1,13 @@
+https://www.gamasutra.com/view/news/373381/Sony_launches_PS5_remote_play_app_for_the_PS4_with_nextgen_looming.php
+Gamasutra is part of the Informa Tech Division of Informa PLC
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+Sony launches PS5 remote play app for the PS4 with next-gen looming
+Sony has quietly launched a PlayStation 5 remote play app for the PlayStation 4 ahead of the next-gen console's United States launch on November 12.
+As spotted by Eurogamer, the PS5 Remote Play app has been automatically added to the PS4 dashboard, and lets PS4 owners use the console to control their PS5 over the Internet.
+On paper, the app gives users the option to stream games at 540p, 720p, and 1080p resolutions, although because the app is currently unable to be tested with a PS5, it's unclear whether its possible to actually play next-gen titles on the PS4 via Remote Play using the DualShock gamepad.
+With the PS5, Sony is introducing a new controller called the DuelSense that boasts additional features including haptic feedback and adaptive triggers. Because of those upgrades, Sony ultimately decided against making the DualShock forward-compatible with next-gen titles -- casting doubt on how exactly it could be used to play PS5 titles via streaming on the PS4.
+Related Jobs
+Top Stories
+Copyright © 2020 Informa PLC
+                            Informa UK Limited is a company registered in England and Wales with company number 1072954
+                            whose registered office is 5 Howick Place, London, SW1P 1WG.
